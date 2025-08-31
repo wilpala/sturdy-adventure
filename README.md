@@ -1,2 +1,2 @@
-# sturdy-adventure
+# Taller Pensamiento Algorítmico 
 Taller 1 
